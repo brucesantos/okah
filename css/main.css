@@ -523,6 +523,11 @@ textarea {
   src: url("../fonts/replica/ReplicaStd-Bold.woff");
   font-weight: bold; }
 
+@font-face {
+  font-family: 'Replica';
+  src: url("../fonts/replica/ReplicaStd-Light.woff");
+  font-weight: 300; }
+
 body {
   background-color: black;
   font-size: 1.4em; }
@@ -545,6 +550,11 @@ body {
 .swiper-container {
   width: 100%;
   height: 100vh; }
+
+.swiper-pagination-bullet {
+  border: 1px solid white;
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.1); }
 
 #logo {
   position: absolute;
@@ -600,9 +610,14 @@ body {
   #location a {
     text-decoration: none;
     color: #e0dacc; }
-  #location img {
+  #location a.phone span {
+    font-weight: 300; }
+  #location img.pin {
     width: 1.5em;
     margin-bottom: .4em; }
+  #location img.phone {
+    width: 1.1em;
+    margin-right: .1em; }
   #location p {
     font-family: 'Replica', 'Raleway', sans-serif;
     color: #e0dacc;

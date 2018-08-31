@@ -12,6 +12,11 @@
     src: url("../fonts/replica/ReplicaStd-Bold.woff");
     font-weight: bold;
 }
+@font-face {
+    font-family: 'Replica';
+    src: url("../fonts/replica/ReplicaStd-Light.woff");
+    font-weight: 300;
+}
 
 $off-white: #e0dacc;
 
@@ -44,6 +49,11 @@ body {
 .swiper-container {
     width: 100%;
     height: 100vh;
+}
+.swiper-pagination-bullet {
+  border: 1px solid white;
+  opacity: 1;
+  background-color: rgba(0,0,0,.1);
 }
 
 #logo {
@@ -96,9 +106,18 @@ body {
     text-decoration: none;
     color: $off-white;
   }
-  img {
+  a.phone {
+    span {
+      font-weight: 300;
+    }
+  }
+  img.pin {
     width: 1.5em;
     margin-bottom: .4em;
+  }
+  img.phone {
+    width: 1.1em;
+    margin-right: .1em;
   }
   p {
     @include estilo-texto;
