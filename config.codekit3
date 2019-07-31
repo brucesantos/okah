@@ -2000,109 +2000,148 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/signatures/bernardo_theotónio-pereira-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/bernardo_theotónio-pereira-01.jpg": {
+		"ft": 16384,
+		"iS": 50015,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/bernardo_theotónio-pereira-01",
-		"oF": 0
+		"oAP": "/signatures/bernardo_theotónio-pereira-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/catarina_telles-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/catarina_telles-01.jpg": {
+		"ft": 16384,
+		"iS": 47592,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/catarina_telles-01",
-		"oF": 0
+		"oAP": "/signatures/catarina_telles-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/christiane_de_lara-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/christiane_de_lara-01.jpg": {
+		"ft": 16384,
+		"iS": 50315,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/christiane_de_lara-01",
-		"oF": 0
+		"oAP": "/signatures/christiane_de_lara-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/daniele_coutinho-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/daniele_coutinho-01.jpg": {
+		"ft": 16384,
+		"iS": 49183,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/daniele_coutinho-01",
-		"oF": 0
+		"oAP": "/signatures/daniele_coutinho-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/eduardo_duarte-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/eduardo_duarte-01.jpg": {
+		"ft": 16384,
+		"iS": 49184,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/eduardo_duarte-01",
-		"oF": 0
+		"oAP": "/signatures/eduardo_duarte-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/flávio_barbosa-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/flávio_barbosa-01.jpg": {
+		"ft": 16384,
+		"iS": 48597,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/flávio_barbosa-01",
-		"oF": 0
+		"oAP": "/signatures/flávio_barbosa-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/josé_leovigildo_coelho-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/josé_leovigildo_coelho-01.jpg": {
+		"ft": 16384,
+		"iS": 49428,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/josé_leovigildo_coelho-01",
-		"oF": 0
+		"oAP": "/signatures/josé_leovigildo_coelho-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/luis_barradas-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/luis_barradas-01.jpg": {
+		"ft": 16384,
+		"iS": 47571,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/luis_barradas-01",
-		"oF": 0
+		"oAP": "/signatures/luis_barradas-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/luis_figueiredo-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/luis_figueiredo-01.jpg": {
+		"ft": 16384,
+		"iS": 48283,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/luis_figueiredo-01",
-		"oF": 0
+		"oAP": "/signatures/luis_figueiredo-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/maristela_lima-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/maristela_lima-01.jpg": {
+		"ft": 16384,
+		"iS": 46943,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/maristela_lima-01",
-		"oF": 0
+		"oAP": "/signatures/maristela_lima-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/patricia_anjos-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/patricia_anjos-01.jpg": {
+		"ft": 16384,
+		"iS": 48691,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/patricia_anjos-01",
-		"oF": 0
+		"oAP": "/signatures/patricia_anjos-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/ricardo_acto-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/ricardo_acto-01.jpg": {
+		"ft": 16384,
+		"iS": 46244,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/ricardo_acto-01",
-		"oF": 0
+		"oAP": "/signatures/ricardo_acto-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/signatures/rita_magalhães-01": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/signatures/rita_magalhães-01.jpg": {
+		"ft": 16384,
+		"iS": 49333,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/signatures/rita_magalhães-01",
-		"oF": 0
+		"oAP": "/signatures/rita_magalhães-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/site.webmanifest": {
 		"cB": 0,
