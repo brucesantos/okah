@@ -2000,6 +2000,14 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
+	"/signatures/assinaturas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/assinaturas.html",
+		"oF": 0
+		},
 	"/signatures/bernardo_theotonio-pereira-01.jpg": {
 		"ft": 16384,
 		"iS": 50015,
