@@ -17,6 +17,14 @@
 		"oAP": "/404.html",
 		"oF": 0
 		},
+	"/assets/docs/201907-menu-okah.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/docs/201907-menu-okah.pdf",
+		"oF": 0
+		},
 	"/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -1990,6 +1998,110 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/robots.txt",
+		"oF": 0
+		},
+	"/signatures/bernardo_theotónio-pereira-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/bernardo_theotónio-pereira-01",
+		"oF": 0
+		},
+	"/signatures/catarina_telles-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/catarina_telles-01",
+		"oF": 0
+		},
+	"/signatures/christiane_de_lara-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/christiane_de_lara-01",
+		"oF": 0
+		},
+	"/signatures/daniele_coutinho-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/daniele_coutinho-01",
+		"oF": 0
+		},
+	"/signatures/eduardo_duarte-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/eduardo_duarte-01",
+		"oF": 0
+		},
+	"/signatures/flávio_barbosa-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/flávio_barbosa-01",
+		"oF": 0
+		},
+	"/signatures/josé_leovigildo_coelho-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/josé_leovigildo_coelho-01",
+		"oF": 0
+		},
+	"/signatures/luis_barradas-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/luis_barradas-01",
+		"oF": 0
+		},
+	"/signatures/luis_figueiredo-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/luis_figueiredo-01",
+		"oF": 0
+		},
+	"/signatures/maristela_lima-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/maristela_lima-01",
+		"oF": 0
+		},
+	"/signatures/patricia_anjos-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/patricia_anjos-01",
+		"oF": 0
+		},
+	"/signatures/ricardo_acto-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/ricardo_acto-01",
+		"oF": 0
+		},
+	"/signatures/rita_magalhães-01": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/signatures/rita_magalhães-01",
 		"oF": 0
 		},
 	"/site.webmanifest": {
