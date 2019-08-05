@@ -2063,6 +2063,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/signatures/face-icon.png": {
+		"ft": 32768,
+		"iS": 302,
+		"oA": 0,
+		"oAP": "/signatures/face-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/signatures/flavio_barbosa-01.jpg": {
 		"ft": 16384,
 		"iS": 48597,
@@ -2074,12 +2085,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/signatures/insta-icon.png": {
+		"ft": 32768,
+		"iS": 529,
+		"oA": 0,
+		"oAP": "/signatures/insta-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/signatures/jose_leovigildo_coelho-01.jpg": {
 		"ft": 16384,
 		"iS": 49428,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/signatures/jose_leovigildo_coelho-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/signatures/logo-okah-assinatura-v2.jpg": {
+		"ft": 16384,
+		"iS": 9905,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/signatures/logo-okah-assinatura-v2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
